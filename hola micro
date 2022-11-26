@@ -1,0 +1,4 @@
+int main() {
+   printf("Hola micro");
+   return 0;
+}

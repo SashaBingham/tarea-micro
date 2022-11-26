@@ -1,0 +1,9 @@
+Respuesta a pregunta 1
+SSH o Secure Shell, es un protocolo de administración remota que le permite a los usuarios controlar
+y modificar sus servidores remotos a través de Internet a través de un mecanismo de autenticación.
+
+Respuesta a pregunta 2
+Se va a la cuenta de Github, y en donde esta el avatar le da "clic" → Settings
+Luego se le da "clic" en SSH and GPG keys
+En donde "Title", puede ser un título descriptivo cualquiera 
+Y en "Key" se pega lo que aparece cuando se ejecuta el comando en git: cat ~/.ssh/id_rsa.pub
