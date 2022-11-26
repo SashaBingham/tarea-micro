@@ -1,4 +1,4 @@
 int main() {
-   printf("Hola micro");
+   printf("Hola micro, bienvenidos!");
    return 0;
 }
